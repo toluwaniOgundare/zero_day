@@ -1,2 +1,3 @@
 print system information
 --kernel-name
+uname -s
